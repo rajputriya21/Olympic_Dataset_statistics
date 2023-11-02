@@ -1,5 +1,7 @@
 # Olympic_Dataset_statistics
-EDA is perform
+
+EDA is perform.
+
 The ‘dataset on the modern Olympic Games’ comprises all the Games from Athens
 1986 to Rio 2016. The Olympics is more than just a quadrennial multi-sport
 world championship. It is a lens through which to understand global history,
