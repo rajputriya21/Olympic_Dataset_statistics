@@ -1,4 +1,4 @@
-# Olympic_Dataset_statistics
+# Olympic Exploratory Data Analysis
 
 EDA is perform.
 
